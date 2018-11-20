@@ -2,7 +2,7 @@
 <!doctype html>
 <html>
   <head>
-    <title> Mastermind </title>
+    <title> MASTERMIND </title>
   </head>
   <body>
     <main>
