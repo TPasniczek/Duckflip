@@ -6,6 +6,7 @@
   </head>
   
   <body>
-    <h1> A two player pattern guessing game </h1>
+    <h1> Mastermind</h1>
+  <h2> A two player pattern guessing game </h2>
   </body>
 </html>
