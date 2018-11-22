@@ -12,6 +12,10 @@
       <p><a href="#">RULES OF GAME</a> </p>
       <form action="/play" method="get">
                             <button type="submit">PLAY</button>
+        <h3> Ongoing Games: </h3>
+        <h4> Players Online:"</h4>
+        <h5> HACKER DUCK (cracks the code) </h5>
+        <h6> MAKER DUCK (makes the code) </h6>
       </form>
     </main>
   </body>
