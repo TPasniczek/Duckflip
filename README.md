@@ -15,7 +15,7 @@
         <h3> Ongoing Games: </h3>
         <h3> Players Online:</h3>
         <h5> HACKER DUCK (cracks the code) </h5>
-        <h6> MAKER DUCK (makes the code) </h6>
+        <h5> MAKER DUCK (makes the code) </h5>
       </form>
     </main>
   </body>
